@@ -1,9 +1,12 @@
+"""
+Used for appending extra routes.
+"""
 from prefect_collection_generator.rest import RESTGenerator
 
 # UPDATE THIS SECTION
 service_name = "Twilio"
 base_directory = "../prefect-twilio"
-overwrite = True
+overwrite = False
 url = ""
 routes = []
 
