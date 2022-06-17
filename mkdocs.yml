@@ -52,8 +52,73 @@ nav:
     - Accountsdotjson: Accountsdotjson.md
     - Credentials: credentials.md
     - Rest: rest.md
-    - V1: v1.md
-    - V2: v2.md
-    - V3: v3.md
     - Accounts Json: accounts_json.md
+    - A2p: a2p.md
+    - Accounts: accounts.md
+    - Alerts: alerts.md
+    - Archives: archives.md
+    - Assistants: assistants.md
+    - Attempts: attempts.md
+    - Auth Tokens: auth_tokens.md
+    - Byoc Trunks: byoc_trunks.md
+    - Channels: channels.md
+    - Commands: commands.md
+    - Composition Hooks: composition_hooks.md
+    - Composition Settings: composition_settings.md
+    - Compositions: compositions.md
+    - Conferences: conferences.md
+    - Configuration: configuration.md
+    - Connection Policies: connection_policies.md
+    - Conversations: conversations.md
+    - Customer Profiles: customer_profiles.md
+    - Deactivations: deactivations.md
+    - Dialing Permissions: dialing_permissions.md
+    - E Sim Profiles: e_sim_profiles.md
+    - End User Types: end_user_types.md
+    - End Users: end_users.md
+    - Events: events.md
+    - Exports: exports.md
+    - Fleets: fleets.md
+    - Flex Flows: flex_flows.md
+    - Flows: flows.md
+    - Forms: forms.md
+    - Interactions: interactions.md
+    - Ip Commands: ip_commands.md
+    - Ip Records: ip_records.md
+    - Media Processors: media_processors.md
+    - Media Recordings: media_recordings.md
+    - Messaging: messaging.md
+    - Network Access Profiles: network_access_profiles.md
+    - Networks: networks.md
+    - Participant Conversations: participant_conversations.md
+    - Phone Numbers: phone_numbers.md
+    - Player Streamers: player_streamers.md
+    - Policies: policies.md
+    - Rate Plans: rate_plans.md
+    - Recording Settings: recording_settings.md
+    - Recordings: recordings.md
+    - Regulatory Compliance: regulatory_compliance.md
+    - Roles: roles.md
+    - Rooms: rooms.md
+    - Schemas: schemas.md
+    - Services: services.md
+    - Settings: settings.md
+    - Sims: sims.md
+    - Sinks: sinks.md
+    - Sms Commands: sms_commands.md
+    - Source Ip Mappings: source_ip_mappings.md
+    - Subscriptions: subscriptions.md
+    - Supporting Document Types: supporting_document_types.md
+    - Supporting Documents: supporting_documents.md
+    - Templates: templates.md
+    - Trunking: trunking.md
+    - Trunks: trunks.md
+    - Trust Products: trust_products.md
+    - Types: types.md
+    - Usage Records: usage_records.md
+    - Users: users.md
+    - Video: video.md
+    - Voice: voice.md
+    - Web Channels: web_channels.md
+    - Workspaces: workspaces.md
     

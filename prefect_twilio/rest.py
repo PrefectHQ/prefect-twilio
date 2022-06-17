@@ -66,8 +66,8 @@ async def execute_endpoint(
     if isinstance(http_method, HTTPMethod):
         http_method = http_method.value
 
-    client = twilio_credentials.get_client()
-    response = await getattr(client, http_method)(url, params=params, **kwargs)
+    async with twilio_credentials.get_client() as client:
+        response = await getattr(client, http_method)(url, params=params, **kwargs)
 
     try:
         response.raise_for_status()

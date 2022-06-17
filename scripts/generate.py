@@ -1,3 +1,6 @@
+"""
+Used for appending extra routes.
+"""
 import httpx
 from prefect_collection_generator.rest import populate_collection_repo
 
