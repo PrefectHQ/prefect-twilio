@@ -48,12 +48,4 @@ plugins:
 
 nav:
     - Home: index.md
-    - Accounts: Accounts.md
-    - Accountsdotjson: Accountsdotjson.md
-    - Credentials: credentials.md
-    - Rest: rest.md
-    - V1: v1.md
-    - V2: v2.md
-    - V3: v3.md
-    - Accounts Json: accounts_json.md
     
